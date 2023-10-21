@@ -20,6 +20,9 @@ e ≈ 2.718282
 
 <img src="graficooct.png" >
 
+VIDEO:
+https://youtu.be/ZsjqeBfxOjk
+
 
 🔧 Tecnologias utilizadas:
 ------------------
