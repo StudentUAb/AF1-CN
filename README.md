@@ -9,12 +9,15 @@
 1. Obtenha limites superiores para o erro absoluto, erro relativo e percentagem de erro das aproximações seguintes:
 e = numero de Euler
 
-e\approx 2.718282
+e ≈ 2.718282
 
-1/13\approx 0.076923
+1/13 ≈ 0.076923
 
 
 (Obs.: Note que e=2.71828182846…..,   1/13 = 0.076923076…..,)
+
+2. Qual o número de algarismos significativos de cada uma das aproximações apresentadas no exercício anterior?
+
 <img src="graficooct.png" >
 
 
