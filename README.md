@@ -22,7 +22,7 @@ e ≈ 2.718282
 
 VIDEO:
 https://youtu.be/ZsjqeBfxOjk
-
+nesta linha no video: vetor_linha = ones(1, 100) * 3; ele multiplica 100 uns que mostra, mas multiplica cada 1 por 3 e fica 100 vezes o numero 3 na tela, era isto que queria explicar no video.
 
 🔧 Tecnologias utilizadas:
 ------------------
